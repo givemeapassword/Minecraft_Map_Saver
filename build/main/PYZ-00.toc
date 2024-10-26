@@ -1,4 +1,4 @@
-('C:\\Users\\VT070\\Desktop\\Minecraft Map Saver\\build\\main\\PYZ-00.pyz',
+('C:\\Users\\VT070\\Desktop\\Minecraft_Map_Saver\\build\\main\\PYZ-00.pyz',
  [('__future__',
    'C:\\Users\\VT070\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\__future__.py',
    'PYMODULE'),
